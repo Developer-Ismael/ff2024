@@ -1,0 +1,1 @@
+//Declare 5 constantes e 5 variaveis de numero inteiro, 
